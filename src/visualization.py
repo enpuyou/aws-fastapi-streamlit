@@ -13,11 +13,11 @@ import time
 credentials_path = "credentials.json"
 
 auth_dict = {
-    "CONSUMER_KEY": "nplQuaMHPcMxDhDZRBTpdQw9G",
-    "CONSUMER_SECRET": "n8LSd7vokOjkNm8qF0cgbT0evtu8Z06WqH3HOvwlfLxwOCGTcO",
-    "ACCESS_TOKEN": "1331097642517073921-BqeOQf7NdDeNVnfgK3ISQxURoVDcyj",
-    "ACCESS_TOKEN_SECRET": "dsjPO62JmE15fXcJdtv9uOwn2AV5hzTueKOtKYotchD0n",
-    "ENVIRONMENT": "TweetMiner"
+    "CONSUMER_KEY": "",
+    "CONSUMER_SECRET": "",
+    "ACCESS_TOKEN": "",
+    "ACCESS_TOKEN_SECRET": "",
+    "ENVIRONMENT": ""
 }
 
 
