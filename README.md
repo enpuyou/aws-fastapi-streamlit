@@ -17,3 +17,9 @@ Execute the program:
 ```shell
 pipenv run streamlit code/visualization.py
 ```
+
+### Contributors
+
+[@noorbuchi](https://github.com/noorbuchi)
+
+[@griffinh1](https://github.com/griffinh1)
